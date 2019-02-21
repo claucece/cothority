@@ -5,6 +5,7 @@ require (
 	github.com/bford/golang-x-crypto v0.0.0-20160518072526-27db609c9d03
 	github.com/coreos/go-oidc v2.0.0+incompatible
 	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/golang/lint v0.0.0-20181217174547-8f45f776aaf1 // indirect
 	github.com/pkg/browser v0.0.0-20180916011732-0a3d74bf9ce4
 	github.com/pquerna/cachecontrol v0.0.0-20180517163645-1555304b9b35 // indirect
 	github.com/prataprc/goparsec v0.0.0-20180806094145-2600a2a4a410
@@ -15,8 +16,10 @@ require (
 	go.dedis.ch/onet/v3 v3.0.0-pre4
 	go.dedis.ch/protobuf v1.0.6
 	go.etcd.io/bbolt v1.3.0
+	golang.org/x/lint v0.0.0-20181217174547-8f45f776aaf1 // indirect
 	golang.org/x/oauth2 v0.0.0-20190115181402-5dab4167f31c
 	golang.org/x/text v0.3.1-0.20180807135948-17ff2d5776d2 // indirect
+	golang.org/x/tools v0.0.0-20190221204921-83362c3779f5 // indirect
 	gopkg.in/satori/go.uuid.v1 v1.2.0
 	gopkg.in/square/go-jose.v2 v2.2.2 // indirect
 	gopkg.in/urfave/cli.v1 v1.20.0
